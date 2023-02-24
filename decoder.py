@@ -72,4 +72,3 @@ if __name__ == "__main__":
 
     out = ldpc_decoder(y,MAX_ITER)
     print(out)
-    print("Hello_world")
