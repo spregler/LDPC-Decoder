@@ -1,5 +1,5 @@
 import numpy as np
-
+# Test
 
 MAX_ITER = 10
 # Parity check matrix
